@@ -7,7 +7,7 @@ Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 
 Narzędzia w kategoriach posortowane są według subiektywnej oceny stosunku prywatności do łatwości i przyjemności używania oraz popularności
 
-Lista jest w fazie alfa 0.7
+Lista jest w fazie alfa 0.8
 
 Changelogi będą publikowane po otwarciu listy do wersji beta
 
@@ -140,12 +140,14 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 * [Bitwarden](https://bitwarden.com/)
 * [KeePass](https://keepass.info/)
+* [Mooltipass](https://www.themooltipass.com/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 * [Passbolt](https://www.passbolt.com/)
 * [LessPass](https://lesspass.com/)
 * [pass](https://www.passwordstore.org/)
+* [Zamek](https://hackaday.io/project/3555-zamek-the-offline-pocket-password-manager)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
@@ -162,7 +164,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 * [Aegis](https://github.com/beemdevelopment/Aegis)
-* [freeOTP](https://github.com/freeotp/freeotp-ios)
+* [Tofu](https://www.tofuauth.com/)
 * [OpenSK](https://github.com/google/OpenSK)
 * [U2F-Zero](https://github.com/conorpp/u2f-zero)
 * [SoloKey](https://github.com/solokeys/solo)
@@ -171,6 +173,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 * [andOTP](https://github.com/andOTP/andOTP)
 * [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
+* [Authenticator](https://mattrubin.me/authenticator/)
 * [Yubikey](https://www.yubico.com/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
@@ -294,15 +297,18 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-*
+* [OpenStreetMap](https://www.openstreetmap.org/)
+* [Transportr](https://transportr.app/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-*
+* [Apple Maps na DDG](https://duckduckgo.com/?q=maps)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
+* Google Maps
+* HERE
+* Bing
 
 ## Systemy operacyjne
 
@@ -335,8 +341,14 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 ## Narzędzia na Androida
 
-*
+* [AuroraStore](https://auroraoss.com/app_info.php?app_id=1)
+* [AuroraDroid](https://auroraoss.com/app_info.php?app_id=2)
+* [RethinkDNS](https://www.bravedns.com/)
+* [Blokada](https://blokada.org/)
+* [Netguard](https://netguard.me/)
+* [Youtube Vanced](https://vancedapp.com/)
 
 ## Inne
 
-*
+* [Blokada iOS](https://blokada.org/)
+* [PiHole](https://pi-hole.net/)
