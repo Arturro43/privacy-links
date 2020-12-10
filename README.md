@@ -2,12 +2,12 @@ Niezależna lista prostych i zaawansowanych narzędzi pomagających zachować pr
 
 Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 - FOSS
-- niezależność finansowa
+- niezależność finansowa (najlepiej opieranie się na dobrowolnych dotacjach)
 - brak podejrzanych działań i brak skandali
 
 Narzędzia w kategoriach posortowane są według subiektywnej oceny stosunku prywatności do łatwości i przyjemności używania oraz popularności
 
-Lista jest w fazie alfa 0.5
+Lista jest w fazie alfa 0.6
 
 Changelogi będą publikowane po otwarciu listy do wersji beta
 
@@ -21,7 +21,7 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 * [Udostępnianie plików](#udostępnianie-plików)
 * [Szyfrowanie plików](#szyfrowanie-plików)
 * [Email](#email)
-* [Sieci społecznościowe](#sieci-spolecznościowe)
+* [Media społecznościowe](#media-społecznościowe)
 * [Systemy operacyjne](#systemy-operacyjne)
 * [Narzędzia na Windowsa](#narzędzia-na-windowsa)
 * [Narzędzia na Androida](#aplikacje-na-androida)
@@ -37,7 +37,7 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 
 * [XMPP+OTR](https://otr.im/clients.html)
 * [Signal](https://signal.org/pl/)
- * [Molly](https://github.com/mollyim/mollyim-android)
+  * [Molly](https://github.com/mollyim/mollyim-android)
 * [Element](https://element.io/)
 * [Silence](https://silence.im/)
 * [Tox](https://tox.chat/)
@@ -65,6 +65,7 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 * Snapchat
 * Microsoft Teams
 * Discord
+* Keybase
 
 ## Wyszukiwarki
 
@@ -243,57 +244,80 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-*
+* [Tutanota](https://tutanota.com/pl/)
+* [Posteo](https://posteo.de/en)
+* [CTemplar](https://ctemplar.com/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-*
+* [Protonmail](https://protonmail.com/)
+* [Cyberfear](https://cyberfear.com/)
+* [Librem Mail](https://librem.one/)
+* [Mailfence](https://mailfence.com/)
+* [Secmail](http://secmail.pro/)
+* [Cock.li](https://cock.li/)
+* [GMail*](https://mail.google.com/)
+  * Używaj **tylko** z dodatkami opisanymi [tutaj](#narzędzia-inne)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
+* wp.pl
+* onet.pl
+* Yahoo Mail
+* Yandex.Mail
+* Outlook
 
-## Sieci społecznościowe
+## Media społecznościowe
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-*
+* [Mastodon](https://joinmastodon.org/)
+* [Aether](https://getaether.net/)
+* [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+* [Nitter for Twitter](https://github.com/zedeus/nitter/wiki/Instances)
+* [Yotter](https://github.com/ytorg/yotter)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-*
+* [Invidious][https://invidio.us/]
+* [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+* [Peertube](https://joinpeertube.org/en/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
+* Facebook
+* Twitter
+* VKontakte
+* Youtube
 
 ## Systemy operacyjne
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-*
+* [Linux](https://distrochooser.de/en/)
+  * [Tails](https://tails.boum.org/)
+* [CalyxOS](https://calyxos.org/)
+* [LineageOS](https://lineageos.org/)
+* [Whonix](https://www.whonix.org/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-*
+* [QubesOS](https://www.qubes-os.org/)
+* [RevisionOS](https://sites.google.com/view/meetrevision)
+* [GrapheneOS](https://grapheneos.org/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
+* Windows 10
+* Android z nakładkami producentów (Huawei, Xiaomi, Samsung, ZTE...)
 
 ## Narzędzia na Windowsa
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
-
-*
-
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
-*
-
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
-
-*
+* [Windows Debotnet](https://github.com/builtbybel/debotnet)
+* [Windows 10 Tweaker](https://win10tweaker.pro/)
+* [Shutup10](https://www.oo-software.com/en/shutup10)
+* [Destroy Windows Spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html)
+* [WPD](https://wpd.app/)
 
 ## Narzędzia na Androida
 
