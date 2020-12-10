@@ -7,7 +7,9 @@ Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 
 Narzędzia w kategoriach posortowane są według subiektywnej oceny stosunku prywatności do łatwości i przyjemności używania oraz popularności
 
-Lista jest w fazie alfa 0.3
+Lista jest w fazie alfa 0.4
+
+Changelogi będą publikowane po otwarciu listy do wersji beta
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
@@ -199,60 +201,52 @@ Lista jest w fazie alfa 0.3
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-*
-*
-*
+* [GoFile](https://gofile.io/welcome)
+* [croc](https://github.com/schollz/croc)
+* [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi)
+* [OnionShare](https://onionshare.org/)
+* [Firefox Send](https://github.com/mozilla/send)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-*
-*
-*
+* [Oshi](https://oshi.at/)
+* [Framadrop](https://framadrop.org/en/)
+* [Envelop](https://envelop.app/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
-*
+* Wysyłanie plików na Messengerze
+* WeTransfer
 
 ## Szyfrowanie plików
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-*
-*
-*
+* [Veracrypt](https://www.veracrypt.fr/en/Home.html)
+* [Cryptomator](https://cryptomator.org/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-*
-*
-*
+* [LUKS](https://gitlab.com/cryptsetup/cryptsetup/)
+* [Kryptor](https://kryptor.co.uk/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
-*
+* NordLocker
+* Bitlocker
 
 ## Email
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Sieci społecznościowe
@@ -260,19 +254,13 @@ Lista jest w fazie alfa 0.3
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Systemy operacyjne
@@ -280,19 +268,13 @@ Lista jest w fazie alfa 0.3
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Narzędzia na Windowsa
@@ -300,19 +282,13 @@ Lista jest w fazie alfa 0.3
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Narzędzia na Androida
@@ -320,19 +296,13 @@ Lista jest w fazie alfa 0.3
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Narzędzia inne
@@ -340,19 +310,13 @@ Lista jest w fazie alfa 0.3
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Nawigacja i mapy
@@ -360,19 +324,13 @@ Lista jest w fazie alfa 0.3
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Płatności
@@ -380,37 +338,15 @@ Lista jest w fazie alfa 0.3
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 *
-*
-*
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-*
-*
 *
 
 ## Inne
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
-
-*
-*
-*
-
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
-*
-*
-*
-
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
-
-*
-*
 *
