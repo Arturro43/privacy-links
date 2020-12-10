@@ -7,9 +7,11 @@ Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 
 Narzędzia w kategoriach posortowane są według subiektywnej oceny stosunku prywatności do łatwości i przyjemności używania oraz popularności
 
-Lista jest w fazie alfa 0.6
+Lista jest w fazie alfa 0.7
 
 Changelogi będą publikowane po otwarciu listy do wersji beta
+
+Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md)
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
@@ -22,12 +24,10 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 * [Szyfrowanie plików](#szyfrowanie-plików)
 * [Email](#email)
 * [Media społecznościowe](#media-społecznościowe)
+* [Nawigacja i mapy](#nawigacja-i-mapy)
 * [Systemy operacyjne](#systemy-operacyjne)
 * [Narzędzia na Windowsa](#narzędzia-na-windowsa)
 * [Narzędzia na Androida](#aplikacje-na-androida)
-* [Narzędzia inne](#narzędzia-inne)
-* [Nawigacja i mapy](#nawigacja-i-mapy)
-* [Płatności](#płatności)
 * [Inne](#inne)
 
 
@@ -290,6 +290,20 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 * VKontakte
 * Youtube
 
+## Nawigacja i mapy
+
+<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+
+*
+
+<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+
+*
+
+<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+
+*
+
 ## Systemy operacyjne
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
@@ -320,58 +334,6 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 * [WPD](https://wpd.app/)
 
 ## Narzędzia na Androida
-
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
-
-*
-
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
-*
-
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
-
-*
-
-## Narzędzia inne
-
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
-
-*
-
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
-*
-
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
-
-*
-
-## Nawigacja i mapy
-
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
-
-*
-
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
-*
-
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
-
-*
-
-## Płatności
-
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
-
-*
-
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
-*
-
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
 *
 
