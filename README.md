@@ -7,7 +7,7 @@ Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 
 Narzędzia w kategoriach posortowane są według subiektywnej oceny stosunku prywatności do łatwości i przyjemności używania oraz popularności
 
-Lista jest w fazie alfa 0.4
+Lista jest w fazie alfa 0.5
 
 Changelogi będą publikowane po otwarciu listy do wersji beta
 
@@ -37,7 +37,7 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 
 * [XMPP+OTR](https://otr.im/clients.html)
 * [Signal](https://signal.org/pl/)
-  * [Molly](https://github.com/mollyim/mollyim-android)
+ * [Molly](https://github.com/mollyim/mollyim-android)
 * [Element](https://element.io/)
 * [Silence](https://silence.im/)
 * [Tox](https://tox.chat/)
@@ -139,7 +139,6 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 
 * [Bitwarden](https://bitwarden.com/)
 * [KeePass](https://keepass.info/)
-* [Passbolt](https://www.passbolt.com/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
@@ -149,7 +148,7 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Zwyczajne menedżer wbudowany w przeglądarkę
+* Zwyczajny menedżer wbudowany w przeglądarkę
 * Lastpass
 * Dashlane
 * 1Password
@@ -163,14 +162,19 @@ Changelogi będą publikowane po otwarciu listy do wersji beta
 
 * [Aegis](https://github.com/beemdevelopment/Aegis)
 * [freeOTP](https://github.com/freeotp/freeotp-ios)
+* [OpenSK](https://github.com/google/OpenSK)
+* [U2F-Zero](https://github.com/conorpp/u2f-zero)
+* [SoloKey](https://github.com/solokeys/solo)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
 * [andOTP](https://github.com/andOTP/andOTP)
 * [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
+* [Yubikey](https://www.yubico.com/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
+* Generator kodów jednorazowych wbudowanych w menedżer haseł
 * Google Authenticator
 * LastPass Authenticator
 * Yandex.Key
