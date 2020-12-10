@@ -1,3 +1,5 @@
+<p align="center"><img width="500" src="media/privacylinks.png"></img></p> 
+
 Niezależna lista prostych i zaawansowanych narzędzi pomagających zachować prywatność w Internecie. Lista będzie rozwijana i wkrótce otrzyma 10-stopniową skalę oceniającą stopień prywatności, lecz stworzenie takiej klasyfikacji trochę zajmie.
 
 Obecne wymagania aby zostać poleconym w sekcji "Używaj":
@@ -7,7 +9,7 @@ Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 
 Narzędzia w kategoriach posortowane są według subiektywnej oceny stosunku prywatności do łatwości i przyjemności używania oraz popularności
 
-Lista jest w fazie alfa 0.8
+Lista jest w fazie alfa 0.9
 
 Changelogi będą publikowane po otwarciu listy do wersji beta
 
@@ -56,10 +58,10 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Messenger
+* Messenger <img width="16" src="media/warn.png"></img>
 * Whatsapp
 * Google Hangouts
-* Skype
+* Skype <img width="16" src="media/warn.png"></img>
 * Zoom
 * Instagram
 * Snapchat
@@ -83,7 +85,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Google
+* Google <img width="16" src="media/warn.png"></img>
 * Bing
 * Yahoo
 * Yandex
@@ -106,9 +108,9 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Chrome
+* Chrome <img width="16" src="media/warn.png"></img>
 * Edge
-* Opera/Opera GX
+* Opera/Opera GX <img width="16" src="media/warn.png"></img>
 * Iridium Browser
 
 ## Rozszerzenia do przeglądarek
@@ -131,8 +133,8 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 * Ghostery
 * AdblockPlus
-* LetyShops
-* Grammarly
+* LetyShops <img width="16" src="media/warn.png"></img>
+* Grammarly <img width="16" src="media/warn.png"></img>
 
 ## Menedżery haseł
 
@@ -151,7 +153,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Zwyczajny menedżer wbudowany w przeglądarkę
+* Zwyczajny menedżer wbudowany w przeglądarkę <img width="16" src="media/warn.png"></img>
 * Lastpass
 * Dashlane
 * 1Password
@@ -201,7 +203,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Google Drive
+* Google Drive <img width="16" src="media/warn.png"></img>
 * OneDrive
 * Dropbox
 
@@ -223,7 +225,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Wysyłanie plików na Messengerze
+* Wysyłanie plików na Messengerze <img width="16" src="media/warn.png"></img>
 * WeTransfer
 
 ## Szyfrowanie plików
@@ -259,8 +261,8 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 * [Mailfence](https://mailfence.com/)
 * [Secmail](http://secmail.pro/)
 * [Cock.li](https://cock.li/)
-* [GMail*](https://mail.google.com/)
-  * Używaj **tylko** z dodatkami opisanymi [tutaj](#narzędzia-inne)
+* [GMail*](https://mail.google.com/) <img width="16" src="media/warn.png"></img>
+  * Używaj **tylko** z dodatkami opisanymi [tutaj](#inne)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
@@ -288,7 +290,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Facebook
+* Facebook <img width="16" src="media/warn.png"></img>
 * Twitter
 * VKontakte
 * Youtube
@@ -306,7 +308,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Google Maps
+* Google Maps <img width="16" src="media/warn.png"></img>
 * HERE
 * Bing
 
@@ -328,7 +330,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Windows 10
+* Windows 10 <img width="16" src="media/warn.png"></img>
 * Android z nakładkami producentów (Huawei, Xiaomi, Samsung, ZTE...)
 
 ## Narzędzia na Windowsa
