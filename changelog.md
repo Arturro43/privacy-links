@@ -6,3 +6,7 @@
 
 * Dodano https://mega.nz/ do listy godnych zainteresowania
 * Dodano ostrzeżenie przy komunikatorach należących do Facebooka
+
+## beta 1.0.2 11.12.2020
+
+* Poprawiono błędne odnośniki

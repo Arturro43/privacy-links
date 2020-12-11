@@ -13,7 +13,7 @@ Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [chang
 
 Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md)
 
-*beta 1.0.1*
+*beta 1.0.2*
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
@@ -285,7 +285,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-* [Invidious][https://invidio.us/]
+* [Invidious](https://invidio.us/)
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [Peertube](https://joinpeertube.org/en/)
 
