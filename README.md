@@ -305,7 +305,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-* [Apple Maps na DDG](https://duckduckgo.com/?q=maps)
+* [Apple Maps na DDG](https://duckduckgo.com/?q=maps&ia=maps&iaxm=maps)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
