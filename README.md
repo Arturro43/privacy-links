@@ -13,7 +13,7 @@ Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [chang
 
 Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md)
 
-beta 1.0
+*beta 1.0.1*
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
@@ -59,11 +59,11 @@ beta 1.0
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
 * Messenger  <img width="14" src="media/warn.png"></img>
-* Whatsapp
+* Whatsapp  <img width="14" src="media/warn.png"></img>
 * Google Hangouts
 * Skype  <img width="14" src="media/warn.png"></img>
 * Zoom
-* Instagram
+* Instagram  <img width="14" src="media/warn.png"></img>
 * Snapchat
 * Microsoft Teams
 * Discord
@@ -200,6 +200,7 @@ beta 1.0
 * [Armored](https://armored.net/)
 * [JottaCloud](https://jottacloud.com/en/)
 * [Tresorit](https://tresorit.com/)
+* [MEGA](https://mega.nz/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
@@ -354,3 +355,6 @@ beta 1.0
 
 * [Blokada iOS](https://blokada.org/)
 * [PiHole](https://pi-hole.net/)
+* [AnonAddy](https://anonaddy.com)
+* [Simplelogin](https://simplelogin.io/)
+* [GnuPG](https://gnupg.org/)
