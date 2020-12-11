@@ -9,11 +9,11 @@ Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 
 Narzędzia w kategoriach posortowane są według subiektywnej oceny stosunku prywatności do łatwości i przyjemności używania oraz popularności
 
-Lista jest w fazie alfa 0.9
-
-Changelogi będą publikowane po otwarciu listy do wersji beta
+Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](changelog.md).
 
 Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md)
+
+beta 1.0
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
@@ -37,7 +37,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-* [XMPP+OTR](https://otr.im/clients.html)
+* [XMPP+OTR](https://otr.im/clients.html)  <img width="16" src="media/best.png"></img> 
 * [Signal](https://signal.org/pl/)
   * [Molly](https://github.com/mollyim/mollyim-android)
 * [Element](https://element.io/)
@@ -58,10 +58,10 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Messenger <img width="16" src="media/warn.png"></img>
+* Messenger  <img width="14" src="media/warn.png"></img>
 * Whatsapp
 * Google Hangouts
-* Skype <img width="16" src="media/warn.png"></img>
+* Skype  <img width="14" src="media/warn.png"></img>
 * Zoom
 * Instagram
 * Snapchat
@@ -73,19 +73,19 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-* [SearX](https://searx.space/)
+* [SearX](https://searx.space/)  <img width="16" src="media/best.png"></img>
 * [Whoogle](https://github.com/benbusby/whoogle-search)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-* [DuckDuckGo](https://duckduckgo.com/)
+* [DuckDuckGo](https://duckduckgo.com/)  <img width="16" src="media/best.png"></img>
 * [Qwant](https://www.qwant.com/)
 * [Metager](https://metager.org/about)
 * [Runnaroo](https://www.runnaroo.com/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Google <img width="16" src="media/warn.png"></img>
+* Google   <img width="16" src="media/warn.png"></img>
 * Bing
 * Yahoo
 * Yandex
@@ -96,8 +96,8 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
+* [Tor Browser](https://www.torproject.org/)  <img width="16" src="media/best.png"></img>
 * [Firefox](https://www.mozilla.org/pl/firefox/new/)
-* [Tor Browser](https://www.torproject.org/)
 * [Bromite](https://www.bromite.org/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
@@ -108,9 +108,9 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Chrome <img width="16" src="media/warn.png"></img>
+* Chrome   <img width="16" src="media/warn.png"></img>
 * Edge
-* Opera/Opera GX <img width="16" src="media/warn.png"></img>
+* Opera/Opera GX   <img width="16" src="media/warn.png"></img>
 * Iridium Browser
 
 ## Rozszerzenia do przeglądarek
@@ -133,14 +133,14 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 * Ghostery
 * AdblockPlus
-* LetyShops <img width="16" src="media/warn.png"></img>
-* Grammarly <img width="16" src="media/warn.png"></img>
+* LetyShops  <img width="14" src="media/warn.png"></img>
+* Grammarly  <img width="14" src="media/warn.png"></img>
 
 ## Menedżery haseł
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-* [Bitwarden](https://bitwarden.com/)
+* [Bitwarden](https://bitwarden.com/)  <img width="16" src="media/best.png"></img>
 * [KeePass](https://keepass.info/)
 * [Mooltipass](https://www.themooltipass.com/)
 
@@ -165,7 +165,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-* [Aegis](https://github.com/beemdevelopment/Aegis)
+* [Aegis](https://github.com/beemdevelopment/Aegis)  <img width="16" src="media/best.png"></img>
 * [Tofu](https://www.tofuauth.com/)
 * [OpenSK](https://github.com/google/OpenSK)
 * [U2F-Zero](https://github.com/conorpp/u2f-zero)
@@ -203,7 +203,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Google Drive <img width="16" src="media/warn.png"></img>
+* Google Drive  <img width="14" src="media/warn.png"></img>
 * OneDrive
 * Dropbox
 
@@ -225,14 +225,14 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Wysyłanie plików na Messengerze <img width="16" src="media/warn.png"></img>
+* Wysyłanie plików na Messengerze  <img width="14" src="media/warn.png"></img>
 * WeTransfer
 
 ## Szyfrowanie plików
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-* [Veracrypt](https://www.veracrypt.fr/en/Home.html)
+* [Veracrypt](https://www.veracrypt.fr/en/Home.html)  <img width="16" src="media/best.png"></img>
 * [Cryptomator](https://cryptomator.org/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
@@ -261,7 +261,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 * [Mailfence](https://mailfence.com/)
 * [Secmail](http://secmail.pro/)
 * [Cock.li](https://cock.li/)
-* [GMail*](https://mail.google.com/) <img width="16" src="media/warn.png"></img>
+* [GMail*](https://mail.google.com/)  <img width="14" src="media/warn.png"></img>
   * Używaj **tylko** z dodatkami opisanymi [tutaj](#inne)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
@@ -290,7 +290,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Facebook <img width="16" src="media/warn.png"></img>
+* Facebook  <img width="14" src="media/warn.png"></img>
 * Twitter
 * VKontakte
 * Youtube
@@ -299,7 +299,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
-* [OpenStreetMap](https://www.openstreetmap.org/)
+* [OpenStreetMap](https://www.openstreetmap.org/)  <img width="16" src="media/best.png"></img>
 * [Transportr](https://transportr.app/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
@@ -308,7 +308,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Google Maps <img width="16" src="media/warn.png"></img>
+* Google Maps  <img width="14" src="media/warn.png"></img>
 * HERE
 * Bing
 
@@ -317,9 +317,9 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 <img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
 
 * [Linux](https://distrochooser.de/en/)
-  * [Tails](https://tails.boum.org/)
+  * [Tails](https://tails.boum.org/)  <img width="16" src="media/best.png"></img>
 * [CalyxOS](https://calyxos.org/)
-* [LineageOS](https://lineageos.org/)
+* [LineageOS](https://lineageos.org/)  <img width="16" src="media/best.png"></img>
 * [Whonix](https://www.whonix.org/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
@@ -330,7 +330,7 @@ Jeżeli chcesz dodać coś od siebie - przeczytaj [Twój wkład](twój-wkład.md
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Windows 10 <img width="16" src="media/warn.png"></img>
+* Windows 10  <img width="14" src="media/warn.png"></img>
 * Android z nakładkami producentów (Huawei, Xiaomi, Samsung, ZTE...)
 
 ## Narzędzia na Windowsa
