@@ -265,11 +265,6 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [GMail*](https://mail.google.com/)
   * Używaj **tylko** z dodatkami opisanymi [tutaj](#dodatki-email)
 
-## Dodatki email
-* [AnonAddy](https://anonaddy.com)
-* [Simplelogin](https://simplelogin.io/)
-* [GnuPG](https://gnupg.org/)
-
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
 * wp.pl
@@ -277,6 +272,11 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * Yahoo Mail
 * Yandex.Mail
 * Outlook
+
+## Dodatki email
+* [AnonAddy](https://anonaddy.com)
+* [Simplelogin](https://simplelogin.io/)
+* [GnuPG](https://gnupg.org/)
 
 ## Media społecznościowe
 

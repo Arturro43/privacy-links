@@ -21,3 +21,7 @@
 * Nowe narzędzia:
   * Dodanie narzędzia Authpass do menedżerów haseł
   * Dodanie narzędzia Nebulo do narzędzi na androida
+
+## beta 1.1.1 12.12.2020
+* Poprawki:
+  * Poprawiono źle wklejoną sekcję (dodatki email)
