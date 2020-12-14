@@ -11,7 +11,7 @@ Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [chang
 
 Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
-*b1.1.1_12122020_1847*
+*b1.2_14122020_1522*
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
@@ -220,6 +220,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
+* [Tresorit Send](https://send.tresorit.com/)
 * [Oshi](https://oshi.at/)
 * [Framadrop](https://framadrop.org/en/)
 * [Envelop](https://envelop.app/)
@@ -277,6 +278,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [AnonAddy](https://anonaddy.com)
 * [Simplelogin](https://simplelogin.io/)
 * [GnuPG](https://gnupg.org/)
+* [Ptorx](https://ptorx.com/info)
 
 ## Media społecznościowe
 
@@ -361,3 +363,6 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 * [Blokada iOS](https://blokada.org/)
 * [PiHole](https://pi-hole.net/)
+* [Maza Ad Blocking](https://maza-ad-blocking.andros.dev/)
+* [OTS](https://ots.fyi/)
+* [Shhh](https://www.shhh-encrypt.com/)

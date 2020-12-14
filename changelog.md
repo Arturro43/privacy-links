@@ -25,3 +25,11 @@
 ## beta 1.1.1 12.12.2020
 * Poprawki:
   * Poprawiono źle wklejoną sekcję (dodatki email)
+
+## beta 1.2 14.12.2020
+* Dodano:
+  * Dodano narzędzie Tresorit Send do udostępniania plików
+  * Dodano narzędzie Ptorx do dodatków email
+  * Dodano narzędzie Maza Ad Blocking do innych
+  * Dodano narzędzie OTS do innych
+  * Dodano narzedzie Shhh do innych
