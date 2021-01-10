@@ -11,7 +11,7 @@ Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [chang
 
 Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
-*b1.2_14122020_1522*
+*b1.3_10012021_1807*
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
@@ -77,7 +77,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-* [DuckDuckGo](https://duckduckgo.com/)
+* *DuckDuckGo* [usunięto wraz z wersją 1.3](changelog.md#beta 1.3)
 * [Qwant](https://www.qwant.com/)
 * [Metager](https://metager.org/about)
 * [Runnaroo](https://www.runnaroo.com/)

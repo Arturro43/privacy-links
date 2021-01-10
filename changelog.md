@@ -33,3 +33,7 @@
   * Dodano narzędzie Maza Ad Blocking do innych
   * Dodano narzędzie OTS do innych
   * Dodano narzedzie Shhh do innych
+
+## beta 1.3 10.01.2021
+* Usunięto:
+  * Usunięto wyszukiwarkę DuckDuckGo - https://web.archive.org/web/20201110130019/http://techrights.org/2020/07/02/ddg-privacy-abuser-in-disguise/
