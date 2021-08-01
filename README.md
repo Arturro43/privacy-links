@@ -100,6 +100,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 * [Tor Browser](https://www.torproject.org/)
 * [Firefox](https://www.mozilla.org/pl/firefox/new/)
+  * [Librewolf](https://librewolf-community.gitlab.io/)
 * [Bromite](https://www.bromite.org/)
 * [Surf](https://surf.suckless.org/)
 * [Qutebrowser](https://qutebrowser.org/)
