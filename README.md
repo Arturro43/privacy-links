@@ -39,7 +39,10 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [XMPP+OTR](https://otr.im/clients.html) 
 * [Signal](https://signal.org/pl/)
   * [Molly](https://github.com/mollyim/mollyim-android)
-* [Element](https://element.io/)
+* Klienty Matrixa:
+  * [Element](https://element.io/)
+  * [Fluffychat](https://fluffychat.im/)
+  * [Nheko](https://nheko-reborn.github.io/)
 * [Silence](https://silence.im/)
 * [Tox](https://tox.chat/)
 * [Session](https://getsession.org/)
