@@ -101,6 +101,8 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [Tor Browser](https://www.torproject.org/)
 * [Firefox](https://www.mozilla.org/pl/firefox/new/)
 * [Bromite](https://www.bromite.org/)
+* [Surf](https://surf.suckless.org/)
+* [Qutebrowser](https://qutebrowser.org/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
