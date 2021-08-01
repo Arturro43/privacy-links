@@ -37,3 +37,6 @@
 ## beta 1.3 10.01.2021
 * Usunięto:
   * Usunięto wyszukiwarkę DuckDuckGo - https://web.archive.org/web/20201110130019/http://techrights.org/2020/07/02/ddg-privacy-abuser-in-disguise/
+## beta 1.4 01.08.2021
+* Dodano:
+  * Pull request - https://github.com/Arturro43/privacy-links/pull/4
