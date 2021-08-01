@@ -80,7 +80,6 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 * [SwissCows](https://www.swisscows.com/)
-* *DuckDuckGo* [usunięto wraz z wersją 1.3](changelog.md)
 * [Qwant](https://www.qwant.com/)
 * [Metager](https://metager.org/about)
 * [Runnaroo](https://www.runnaroo.com/)
