@@ -356,6 +356,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [RethinkDNS](https://www.bravedns.com/)
 * [Blokada](https://blokada.org/)
 * [Netguard](https://netguard.me/)
+* [NewPipe](https://newpipe.net/)
 * [Youtube Vanced](https://vancedapp.com/)
 * [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/)
 
