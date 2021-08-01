@@ -39,7 +39,10 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [XMPP+OTR](https://otr.im/clients.html) 
 * [Signal](https://signal.org/pl/)
   * [Molly](https://github.com/mollyim/mollyim-android)
-* [Element](https://element.io/)
+* Klienty Matrixa:
+  * [Element](https://element.io/)
+  * [Fluffychat](https://fluffychat.im/)
+  * [Nheko](https://nheko-reborn.github.io/)
 * [Silence](https://silence.im/)
 * [Tox](https://tox.chat/)
 * [Session](https://getsession.org/)
@@ -76,7 +79,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [Whoogle](https://github.com/benbusby/whoogle-search)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
+* [SwissCows](https://www.swisscows.com/)
 * *DuckDuckGo* [usunięto wraz z wersją 1.3](changelog.md)
 * [Qwant](https://www.qwant.com/)
 * [Metager](https://metager.org/about)
@@ -97,7 +100,10 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 * [Tor Browser](https://www.torproject.org/)
 * [Firefox](https://www.mozilla.org/pl/firefox/new/)
+  * [Librewolf](https://librewolf-community.gitlab.io/)
 * [Bromite](https://www.bromite.org/)
+* [Surf](https://surf.suckless.org/)
+* [Qutebrowser](https://qutebrowser.org/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
@@ -356,6 +362,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [RethinkDNS](https://www.bravedns.com/)
 * [Blokada](https://blokada.org/)
 * [Netguard](https://netguard.me/)
+* [NewPipe](https://newpipe.net/)
 * [Youtube Vanced](https://vancedapp.com/)
 * [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/)
 
