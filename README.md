@@ -11,7 +11,7 @@ Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [chang
 
 Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
-*b1.3_10012021_1807*
+*b1.4_01082021_1552*
 
 * [Komunikatory](#komunikatory)
 * [Wyszukiwarki](#wyszukiwarki)
