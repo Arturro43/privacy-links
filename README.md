@@ -262,7 +262,6 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-* [Protonmail](https://protonmail.com/)
 * [Cyberfear](https://cyberfear.com/)
 * [Librem Mail](https://librem.one/)
 * [Mailfence](https://mailfence.com/)
@@ -273,6 +272,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
+* [Protonmail](https://threadreaderapp.com/thread/1434595251243692037.html)
 * wp.pl
 * onet.pl
 * Yahoo Mail
