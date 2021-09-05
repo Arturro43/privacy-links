@@ -40,3 +40,6 @@
 ## beta 1.4 01.08.2021
 * Dodano:
   * Pull request - https://github.com/Arturro43/privacy-links/pull/4
+## beta 1.5 06.09.2021
+* Usunięto:
+  * Protonmail. Ponieważ "prawo do prywatności działa do pewnego momentu" :) - https://twitter.com/andyyen/status/1434595251243692037
