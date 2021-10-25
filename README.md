@@ -372,3 +372,4 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [Maza Ad Blocking](https://maza-ad-blocking.andros.dev/)
 * [OTS](https://ots.fyi/)
 * [Shhh](https://www.shhh-encrypt.com/)
+* [Libsodium](https://doc.libsodium.org)
