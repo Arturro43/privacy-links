@@ -222,6 +222,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](twój-wkład.md).
 * [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi)
 * [OnionShare](https://onionshare.org/)
 * [Firefox Send](https://github.com/mozilla/send)
+* [Up1](https://github.com/Upload/Up1)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
