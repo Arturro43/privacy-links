@@ -1,7 +1,7 @@
 title: 'Privacy Links'
 description: "Niezależna lista otwartoźródłowych narzędzi pomagających zachować prywatność w Internecie."
-baseurl: "/pl.privacylinks"
-url: "https://arturro43.github.io/pl.privacylinks/"
+baseurl: "/privacylinks"
+url: "https://arturro43.github.io/privacylinks/"
 
 header_pages:
   - sites/home.md
@@ -13,7 +13,7 @@ header_pages:
 
 style: light
 
-footer: 'Daj gwiazdkę projektowi na <a href="https://github.com/Arturro43/privacy-links">Githubie</a>'
+footer: 'Daj gwiazdkę projektowi na <a href="https://github.com/Arturro43/privacy-links">GitHubie</a>'
 
 # Build settings
 markdown: kramdown
