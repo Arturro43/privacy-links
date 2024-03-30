@@ -1,5 +1,5 @@
 ---
-title: /links
+title: Privacy Links
 layout: page
 permalink: /links
 ---
@@ -8,7 +8,7 @@ Privacy Links to niezależna lista otwartoźródłowych zarówno prostych i zaaw
 
 Aktualna wersja:
 
-*v2.0_30032024*
+*v2.1_30032024*
 
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](changelog.md).
 
@@ -113,6 +113,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 
 * [Brave](https://brave.com/)
 * [ungoogled chromium](https://github.com/Eloston/ungoogled-chromium)
+* [Mullvad Browser](https://mullvad.net/pl/download/browser/windows)
 
 ## Unikaj <img width="16" src="media/no.png">
 
@@ -392,5 +393,6 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [Maza Ad Blocking](https://maza-ad-blocking.andros.dev/)
 * [OTS](https://ots.fyi/)
 * [Libsodium](https://doc.libsodium.org)
+* [LanguageTool](https://github.com/languagetool-org/languagetool)
 
 ----

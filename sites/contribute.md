@@ -1,5 +1,5 @@
 ---
-title: /contribute
+title: Contribute
 layout: page
 permalink: /contribute
 ---
@@ -22,3 +22,12 @@ Dziękuję za zainteresowanie w tworzeniu listy! Bardzo to doceniam. Tutaj dowie
 
 * Credits:
     * Przy tworzeniu issue napisz nick jakim chcesz się identyfikować, a zostaniesz dodan* do listy kontrybutorów.
+
+## Podziękowania
+
+Bardzo dziękuję za pomoc każdemu kto pomógł mi w tworzeniu listy Privacy Links.
+
+Dziękuję, skelly37
+Dziękuję, mk00pl
+Dziękuję, hexandcube
+Dziękuję, milosz0542

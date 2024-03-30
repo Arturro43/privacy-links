@@ -1,5 +1,5 @@
 ---
-title: /changelog
+title: Changelog
 layout: page
 permalink: /changelog
 ---
@@ -122,3 +122,7 @@ permalink: /changelog
   * Przygotowania do release
 ## release 2.0 30.03.2024
   * Finalny release wersji 2.0!
+## release 2.1 30.03.2024
+  * Dodano Mullvad Browser do Warte zainteresowania (dziękuję milosz0542!)
+  * Dodano LanguageTool (dziękuję hexandcube!)
+  * Drobne poprawki stron

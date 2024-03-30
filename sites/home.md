@@ -1,5 +1,5 @@
 ---
-title: /home
+title: Privacy Links
 layout: home
 permalink: /
 ---
