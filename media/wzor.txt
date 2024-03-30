@@ -1,0 +1,11 @@
+Tytuł: Propozycja dodania do listy - [Nazwa narzędzia]
+
+Treść:
+
+Strona projektu: [link]
+Kod źródłowy: [link]
+Twój nick: [napisz w jaki sposób chcesz się identyfikować, na liście kontrybutorów. Wpisz anonim jeżeli ]
+
+Opis:
+
+[Napisz krótko o tym narzędziu - dlaczego je polecasz i opisz w jaki sposób działa, czym się wyróżnia]

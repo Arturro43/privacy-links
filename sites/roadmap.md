@@ -1,3 +1,9 @@
+---
+title: /roadmap
+layout: page
+permalink: /roadmap
+---
+
 ## Bliska przyszłość:
 
 * Dodanie krótkich opisów do narzędzi

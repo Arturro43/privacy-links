@@ -1,0 +1,20 @@
+title: 'Privacy Links'
+description: "Niezależna lista otwartoźródłowych narzędzi pomagających zachować prywatność w Internecie."
+baseurl: "/beta.privacylinks"
+url: "https://arturro43.github.io/beta.privacylinks/"
+
+header_pages:
+  - sites/home.md
+  - sites/links.md
+  - sites/about.md
+  - sites/changelog.md
+  - sites/contribute.md
+  - sites/roadmap.md
+
+style: light
+
+footer: 'Daj gwiazdkę projektowi na <a href="https://github.com/Arturro43/privacy-links">Githubie</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console

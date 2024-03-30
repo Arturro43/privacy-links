@@ -1,10 +1,10 @@
-<p align="center"><img width="500" src="media/privacylinks.png"></img></p> 
+---
+title: /links
+layout: page
+permalink: /links
+---
 
-# Privacy Links
-
-Privacy Links to niezależna lista otwartoźródłowych zarówno prostych i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.
-
-Aby dowiedzieć się więcej na temat tej listy, m.in. kryteriów stojących za rekomendacjami koniecznie sprawdź [about](sites/about.md)!
+Privacy Links to niezależna lista otwartoźródłowych zarówno prostych i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.\
 
 Aktualna wersja:
 
@@ -13,6 +13,8 @@ Aktualna wersja:
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](changelog.md).
 
 Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.md).
+
+----
 
 - [Komunikatory](#komunikatory)
 - [Wyszukiwarki](#wyszukiwarki)
@@ -33,20 +35,22 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 - [Inne](#inne)
 
 
-## Komunikatory
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Komunikatory
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [XMPP+OTR](https://otr.im/clients.html)
 * [SimpleX Chat](https://simplex.chat/)
 * [Signal](https://signal.org/pl/)
-  * [Molly](https://github.com/mollyim/mollyim-android)
+* [Molly](https://github.com/mollyim/mollyim-android)
 * [Tox](https://tox.chat/)
 * [TinFoil Chat](https://github.com/maqp/tfc)
 * [Briar](https://briarproject.org/)
 * [cwtch](https://cwtch.im/)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Klienty Matrixa](https://matrix.org/ecosystem/clients/)
 * [Meshtastic](https://meshtastic.org/)
@@ -56,7 +60,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [Session](https://getsession.org/)
 * [cyph](https://www.cyph.com/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * [Telegram](https://telegram.org/)
 * Messenger
@@ -70,90 +74,98 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * Discord
 * Keybase
 
-## Wyszukiwarki
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Wyszukiwarki
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [SearX](https://searx.space/)
 * [Whoogle](https://github.com/benbusby/whoogle-search)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 * [SwissCows](https://www.swisscows.com/)
 * [Qwant](https://www.qwant.com/)
 * [Metager](https://metager.org/about)
 * [Brave Search](https://search.brave.com/)
 * [Kagi](https://kagi.com/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Google
 * Bing
 * Yahoo
 * Yandex
 * Ecosia
+  
+----
+  
+# Przeglądarki
 
-## Przeglądarki
-
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+## Używaj <img width="16" src="media/yes.png">
 
 * [Tor Browser](https://www.torproject.org/)
 * [Firefox](https://www.mozilla.org/pl/firefox/new/)
-  * [Librewolf](https://librewolf.net/)
+* [Librewolf](https://librewolf.net/)
 * [Cromite](https://github.com/uazo/cromite)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Brave](https://brave.com/)
 * [ungoogled chromium](https://github.com/Eloston/ungoogled-chromium)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Chrome
 * Edge
 * Opera/Opera GX
 * Iridium Browser
+  
+----
 
-## Rozszerzenia do przeglądarek
+# Rozszerzenia do przeglądarek
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+## Używaj <img width="16" src="media/yes.png">
 
 * [uBlock Origin](https://github.com/gorhill/uBlock)
 * [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 * [Privacy Badger](https://www.eff.org/privacybadger)
 * [ClearUrls](https://gitlab.com/KevinRoebert/ClearUrls)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [NoScript](https://noscript.net/getit)
 * [Violentmonkey](https://violentmonkey.github.io/)
 * [Decentraleyes](https://decentraleyes.org/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Ghostery
 * AdblockPlus
 * LetyShops
 * Grammarly
 
-## Menedżery haseł
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Menedżery haseł
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [Bitwarden](https://bitwarden.com/)
 * [KeePassXC](https://keepassxc.org/)
 * [AuthPass](https://authpass.app/)
 * [Mooltipass](https://www.themooltipass.com/)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Passbolt](https://www.passbolt.com/)
 * [LessPass](https://lesspass.com/)
 * [pass](https://www.passwordstore.org/)
 * [Zamek](https://hackaday.io/project/3555-zamek-the-offline-pocket-password-manager)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
-* Zwyczajny menedżer wbudowany w przeglądarkę <img width="16" src="media/warn.png"></img>
+* Zwyczajny menedżer wbudowany w przeglądarkę <img width="16" src="media/warn.png">
 * Lastpass
 * Dashlane
 * 1Password
@@ -161,9 +173,11 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * Keeper
 * NordPass
 
-## 2FA
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# 2FA
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [Ente Auth](https://ente.io/blog/auth/)
 * [Aegis](https://github.com/beemdevelopment/Aegis)
@@ -172,27 +186,29 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [U2F-Zero](https://github.com/conorpp/u2f-zero)
 * [SoloKey](https://github.com/solokeys/solo)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [andOTP](https://github.com/andOTP/andOTP)
 * [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
 * [Yubikey](https://www.yubico.com/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Generator kodów jednorazowych wbudowanych w menedżer haseł
 * Google Authenticator
 * LastPass Authenticator
 * Yandex.Key
 
-## Chmury
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Chmury
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [Nextcloud](https://nextcloud.com/)
 * [Seafile](https://www.seafile.com/en/home/)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Sync](https://www.sync.com/)
 * [Hetzner](https://www.hetzner.com/storage/storage-share)
@@ -200,15 +216,17 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [Tresorit](https://tresorit.com/)
 * [MEGA](https://mega.nz/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Google Drive
 * OneDrive
 * Dropbox
 
-## Udostępnianie plików
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Udostępnianie plików
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [GoFile](https://gofile.io/welcome)
 * [croc](https://github.com/schollz/croc)
@@ -216,49 +234,52 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [OnionShare](https://onionshare.org/)
 * [ffsend](https://gitlab.com/timvisee/ffsend)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Tresorit Send](https://send.tresorit.com/)
 * [Oshi](https://oshi.at/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Wysyłanie plików na Messengerze
 * WeTransfer
 
-## Szyfrowanie plików
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Szyfrowanie plików
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html)
 * [Cryptomator](https://cryptomator.org/)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [LUKS](https://gitlab.com/cryptsetup/cryptsetup/)
 * [Kryptor](https://kryptor.co.uk/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * NordLocker
 * Bitlocker
 
-## Email
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Email
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [Tutanota](https://tutanota.com/pl/)
 * [Posteo](https://posteo.de/en)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Cyberfear](https://cyberfear.com/)
 * [Mailfence](https://mailfence.com/)
 * [Cock.li](https://cock.li/)
-* [GMail*](https://mail.google.com/)
-  * Używaj **tylko** z dodatkami opisanymi [tutaj](#dodatki-email)
+* [GMail](https://mail.google.com/). Używaj tylko z dodatkami opisanymi [tutaj](#dodatki-email)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * [Protonmail](https://threadreaderapp.com/thread/1434595251243692037.html)
 * wp.pl
@@ -267,14 +288,16 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * Yandex.Mail
 * Outlook
 
-## Dodatki email
+# Dodatki email
 * [AnonAddy - teraz Addy.io](https://addy.io/)
 * [Simplelogin](https://simplelogin.io/)
 * [GnuPG](https://gnupg.org/)
 
-## Media społecznościowe
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Media społecznościowe
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [Mastodon](https://joinmastodon.org/)
 * [Aether](https://getaether.net/)
@@ -282,66 +305,74 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [Nitter for Twitter](https://github.com/zedeus/nitter/wiki/Instances)
 * [Yotter](https://github.com/ytorg/yotter)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Invidious](https://invidio.us/)
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [Peertube](https://joinpeertube.org/en/)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Facebook
 * Twitter
 * VKontakte
 * Youtube
 
-## Nawigacja i mapy
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Nawigacja i mapy
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [OpenStreetMap](https://www.openstreetmap.org/)
 * [Transportr](https://transportr.app/)
 
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
+## Warte zainteresowania <img width="16" src="media/maybe.png">
 
 * [Apple Maps na DDG](https://duckduckgo.com/?q=maps&ia=maps&iaxm=maps)
 
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
+## Unikaj <img width="16" src="media/no.png">
 
 * Google Maps
 * HERE
 * Bing
 
-## Systemy operacyjne
+----
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+# Systemy operacyjne
+
+## Używaj <img width="16" src="media/yes.png">
 
 * [Linux](https://distrochooser.de/en/)
-  * [Tails](https://tails.boum.org/)
+* [Tails](https://tails.boum.org/)
 * [CalyxOS](https://calyxos.org/)
 * [LineageOS](https://lineageos.org/)
 * [Whonix](https://www.whonix.org/)
-
-<img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
-
+  
+## Warte zainteresowania <img width="16" src="media/maybe.png">
+  
 * [QubesOS](https://www.qubes-os.org/)
 * [GrapheneOS](https://grapheneos.org/)
 * [AME Wizard](https://ameliorated.io/)
-  * [RevisionOS](https://revi.cc/)
-  * [AtlasOS](https://atlasos.net/)
-
-<img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
-
+* [RevisionOS](https://revi.cc/)
+* [AtlasOS](https://atlasos.net/)
+  
+## Unikaj <img width="16" src="media/no.png">
+  
 * Windows 10
 * Android z nakładkami producentów (Huawei, Xiaomi, Samsung, ZTE...)
 
-## Narzędzia na Windowsa
-
+----
+ 
+# Narzędzia na Windowsa
+  
 * [Shutup10](https://www.oo-software.com/en/shutup10)
 * [Destroy Windows Spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html)
 * [WPD](https://wpd.app/)
 
-## Narzędzia na Androida
+----
+
+# Narzędzia na Androida
 
 * [AuroraStore](https://auroraoss.com/app_info.php?app_id=1)
 * [AuroraDroid](https://auroraoss.com/app_info.php?app_id=2)
@@ -352,10 +383,14 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [Youtube Vanced](https://vancedapp.com/)
 * [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/)
 
-## Inne
+----
 
+# Inne
+  
 * [Blokada iOS](https://blokada.org/)
 * [PiHole](https://pi-hole.net/)
 * [Maza Ad Blocking](https://maza-ad-blocking.andros.dev/)
 * [OTS](https://ots.fyi/)
 * [Libsodium](https://doc.libsodium.org)
+
+----
