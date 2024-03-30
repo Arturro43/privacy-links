@@ -22,7 +22,7 @@
     1.3 * Dodanie kategorii "Dodatki email" - przerzucenie GPG, AnonAddy i Simplelogin z "inne" do nowej kategorii  
 
     1.4 * Zmiana znakowania wersji w głównym dokumencie - od teraz format to xA.B.C_ddmmyyyy_hhmm. x - status (alfa, beta, public) A - wersja, B - większy release, C - numer oznaczający kolejną wersję drobnych poprawek.  
-    
+
 2. Nowe narzędzia:  
 
     2.1 * Dodanie narzędzia Authpass do menedżerów haseł  
@@ -81,13 +81,13 @@
 
     2.1 Komunikatory:  
 
-        2.1.1 * [Silence](https://silence.im/) - projekt umarł.  
+        2.1.1 * Silence - projekt umarł.  
 
-        2.1.2 * [DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) - projekt został zamknięty.  
+        2.1.2 * DiscordCrypt - projekt został zamknięty.  
 
     2.2 Wyszukiwarki:  
 
-        2.2.1 * [Runnaroo](https://www.runnaroo.com/) - projekt prawdopodobnie umarł.  
+        2.2.1 * Runnaroo - projekt prawdopodobnie umarł.  
         
         2.2.2 * Usunięto Startpage z kategorii Unikaj. Obecnie nie jest to usługa, którą mogę polecić, lecz przez dobre zmiany nie zasługuje na miejsce w kategorii Unikaj.   
 
@@ -95,9 +95,9 @@
 
         2.3.1 * Bromite - projekt umarł.  
 
-        2.3.2 * [Surf](https://surf.suckless.org/) - projekt jest niezbyt aktywny, jest to bardziej ciekawostka.   
+        2.3.2 * Surf - projekt jest niezbyt aktywny, jest to bardziej ciekawostka.   
 
-        2.3.3 * [Qutebrowser](https://qutebrowser.org/) - tak jak wyżej.   
+        2.3.3 * Qutebrowser - tak jak wyżej.   
 
     2.4 Rozszerzenia do przeglądarek:  
 
@@ -109,13 +109,13 @@
 
     2.6 2FA:  
 
-        2.6.1 * [Authenticator](https://mattrubin.me/authenticator/) - projekt jest przestarzały.  
+        2.6.1 * Authenticator - projekt jest przestarzały.  
 
     2.7 Chmury:  
 
-        2.7.1 * [CozyCloud](https://cozy.io/en/) - projekt nie jest już ciekawą alternatywą.  
+        2.7.1 * CozyCloud - projekt nie jest już ciekawą alternatywą.  
 
-        2.7.2 * [Armored](https://armored.net/) - projekt umarł.  
+        2.7.2 * Armored - projekt umarł.  
 
     2.8 Udostępnianie plików:  
 
@@ -135,27 +135,27 @@
 
     2.10 Narzędzia na Windowsa:  
 
-        2.10.1 * [Windows Debotnet](https://github.com/builtbybel/debotnet) - projekt umarł.  
+        2.10.1 * Windows Debotnet - projekt umarł.  
 
-        2.10.2 * [Windows 10 Tweaker](https://win10tweaker.pro/) - projekt został przejęty.  
+        2.10.2 * Windows 10 Tweaker - projekt został przejęty.  
 
     2.11 Inne:  
 
-        2.11.1 * [Shhh](https://www.shhh-encrypt.com/) - projekt umarł.  
+        2.11.1 * Shhh - projekt umarł.  
 
 3. Dodano:  
 
     3.1 Komunikatory:  
 
-        3.1.1 * [cwtch](https://cwtch.im/) kategoria Używaj  
+        3.1.1 * cwtch kategoria Używaj  
 
-        3.1.2 * [SimpleX Chat](https://simplex.chat/) kategoria Używaj  
+        3.1.2 * SimpleX Chat kategoria Używaj  
 
     3.2 Wyszukiwarki:  
 
-        3.2.1 * [Brave Search](https://search.brave.com/)  
+        3.2.1 * Brave Search  
 
-        3.2.2 * [Kagi](https://kagi.com/)  
+        3.2.2 * Kagi  
 
     3.3 Przeglądarki:  
 
@@ -163,19 +163,19 @@
 
     3.4 2FA:  
 
-        3.4.1 * [Ente Auth](https://ente.io/blog/auth/)  
+        3.4.1 * Ente Auth  
 
     3.5 Udostępnianie plików:  
 
-        3.5.1 * [ffsend](https://gitlab.com/timvisee/ffsend)  
+        3.5.1 * ffsend  
 
     3.6 Systemy operacyjne:  
 
-        3.6.1 * [AME Wizard](https://ameliorated.io/)  
+        3.6.1 * AME Wizard  
 
-        3.6.2 * [RevisionOS](https://revi.cc/)  
+        3.6.2 * RevisionOS  
 
-        3.6.3 * [AtlasOS](https://atlasos.net/)  
+        3.6.3 * AtlasOS  
 
 4. Przeniesiono:
 
