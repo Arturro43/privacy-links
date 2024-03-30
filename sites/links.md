@@ -12,7 +12,7 @@ Aktualna wersja:
 
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](changelog.md).
 
-Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.md).
+Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute).
 
 ----
 
