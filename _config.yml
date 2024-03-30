@@ -1,7 +1,7 @@
 title: 'Privacy Links'
 description: "Niezależna lista otwartoźródłowych narzędzi pomagających zachować prywatność w Internecie."
-baseurl: "/beta.privacylinks"
-url: "https://arturro43.github.io/beta.privacylinks/"
+baseurl: "/pl.privacylinks"
+url: "https://arturro43.github.io/pl.privacylinks/"
 
 header_pages:
   - sites/home.md
