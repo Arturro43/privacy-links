@@ -4,15 +4,15 @@ layout: page
 permalink: /links
 ---
 
-Privacy Links to niezależna lista otwartoźródłowych zarówno prostych i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.\
+Privacy Links to niezależna lista otwartoźródłowych zarówno prostych jak i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.\
 
 Aktualna wersja:
 
-*v2.1_30032024*
+*v2.2_23042024*
 
-Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](changelog.md).
+Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
 
-Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute).
+Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
 
 ----
 

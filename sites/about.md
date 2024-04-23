@@ -11,6 +11,6 @@ Obecne wymagania aby zostać poleconym w sekcji "Używaj":
 - niezależność finansowa (najlepiej opieranie się na dobrowolnych dotacjach)
 - dobra reputacja - brak podejrzanych działań i brak skandali
 
-Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](changelog.md).
+Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
 
-Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.md).
+Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute.md).
