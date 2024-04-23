@@ -210,6 +210,6 @@ permalink: /changelog
     * Dodano Mullvad Browser do Warte zainteresowania (dziękuję milosz0542!)
     * Dodano LanguageTool (dziękuję hexandcube!)
     * Drobne poprawki stron
-## release 2.2 23.04.2024
+## release 2.1.1 23.04.2024
     * Zunifikowanie changeloga do jednej strony.
     * Poprawki odnośników do podstron.
