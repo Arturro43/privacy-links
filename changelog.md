@@ -203,13 +203,16 @@ permalink: /changelog
 
 ## release candidate 1.9.1-1.9.9 26.03.2024-30.03.2024
     * Poprawki w podstronach changelog, twój wkład, roadmap.
-    * Przygotowania do release
+    * Przygotowania do release  
+
 ## release 2.0 30.03.2024
-    * Finalny release wersji 2.0!
+    * Finalny release wersji 2.0!  
+
 ## release 2.1 30.03.2024
     * Dodano Mullvad Browser do Warte zainteresowania (dziękuję milosz0542!)
     * Dodano LanguageTool (dziękuję hexandcube!)
-    * Drobne poprawki stron
+    * Drobne poprawki stron  
+
 ## release 2.1.1 23.04.2024
     * Zunifikowanie changeloga do jednej strony.
     * Poprawki odnośników do podstron.
