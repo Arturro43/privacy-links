@@ -14,4 +14,4 @@ Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [chang
 
 Jeśli chcesz pomóc w rozwoju tej listy przeczytaj [Twój wkład](./contribute.md). Dziękuję.
 
-[Przejdź do listy](./links.md)
+[Przejdź do listy](../README.md)
