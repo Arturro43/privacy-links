@@ -4,7 +4,11 @@ layout: page
 permalink: /links
 ---
 
-Privacy Links to niezależna lista otwartoźródłowych zarówno prostych jak i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.  
+<p align="center"><img width="500" src="media/privacylinks.png"></img></p> 
+
+# Privacy Links
+
+Privacy Links to niezależna lista otwartoźródłowych zarówno prostych jak i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.
 
 Aby dowiedzieć się więcej na temat tej listy, m.in. kryteriów stojących za rekomendacjami koniecznie sprawdź [about](sites/about.md)!
 
@@ -14,8 +18,7 @@ Aktualna wersja:
 
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
 
-Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
-
+Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.md).
 ----
 
 - [Komunikatory](#komunikatory)
@@ -245,7 +248,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
 
 ## Unikaj <img width="16" src="media/no.png">
 
-* Wysyłanie plików na Messengerze
+* Wysyłanie plików za pośrednictwem nieszyfrowanego komunikatora (Telegram, Messenger, email)
 * WeTransfer
 
 ----
@@ -256,10 +259,10 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
 
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html)
 * [Cryptomator](https://cryptomator.org/)
+* [LUKS](https://gitlab.com/cryptsetup/cryptsetup/)
 
 ## Warte zainteresowania <img width="16" src="media/maybe.png">
 
-* [LUKS](https://gitlab.com/cryptsetup/cryptsetup/)
 * [Kryptor](https://kryptor.co.uk/)
 
 ## Unikaj <img width="16" src="media/no.png">
@@ -293,7 +296,8 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
 * Outlook
 
 # Dodatki email
-* [AnonAddy - teraz Addy.io](https://addy.io/)
+
+* [Addy.io](https://addy.io/)
 * [Simplelogin](https://simplelogin.io/)
 * [GnuPG](https://gnupg.org/)
 
@@ -362,7 +366,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
   
 ## Unikaj <img width="16" src="media/no.png">
   
-* Windows 10
+* Windows 10/11
 * Android z nakładkami producentów (Huawei, Xiaomi, Samsung, ZTE...)
 
 ----
