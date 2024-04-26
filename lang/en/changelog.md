@@ -241,3 +241,10 @@
 **2. Removed:**
 
   2.1 * CalyxOS was removed for being defamatory to the developer of GrapheneOS.
+
+## release 3.0 26.04.2024
+
+* Version rc 2.3 with few minor improvements published!
+* Main directory for links is now readme.
+* Visual improvements.
+* Added translation guide.

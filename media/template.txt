@@ -1,0 +1,11 @@
+Title: Suggestion to add to list - [Name of the tool]
+
+Content:
+
+Page of the project: [link]
+Source code: [link]
+Your nick: [Type how you want to identify yourself on the contributor list. Type anonymous if you want to remain anonymous ]
+
+Description:
+
+[Write briefly about this tool - why you recommend it and describe how it works, what makes it different]

@@ -1,10 +1,10 @@
 ---
 title: Privacy Links
 layout: page
-permalink: /links
+permalink: /links/en
 ---
 
-<p align="center"><img width="500" src="media/privacylinks.png"></img></p> 
+<p align="center"><img width="500" src="media/privacylinks.png"></p> 
 
 # Privacy Links
 
@@ -44,7 +44,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 
 # Komunikatory
 
-## Używaj <img width="16" src="media/yes.png"></img>
+## Używaj <img width="16" src="media/yes.png">
 
 * [XMPP+OTR](https://otr.im/clients.html)
 * [SimpleX Chat](https://simplex.chat/)

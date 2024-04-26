@@ -1,6 +1,14 @@
-<p align="center"><img width="500" src="media/privacylinks.png"></img></p> 
+---
+title: Privacy Links
+layout: page
+permalink: /links/en
+---
+
+<p align="center"><img width="500" src="media/privacylinks.png"></p> 
 
 # Privacy Links
+
+**Privacy Links is also available in: EN | [PL](../../README.md)**
 
 Privacy Links is an independent list of open-source both simple and advanced tools to help you maintain your online privacy.
 
@@ -10,7 +18,7 @@ Current version:
 
 *v3.0_26042024*
 
-Want to see what's changed since your last visit? Read [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
+Want to see what's changed since your last visit? Read [changelog](https://github.com/Arturro43/privacy-links/blob/main/en/changelog.md).
 
 If you want to add something from yourself read [contribution](sites/contribute.md).
 
@@ -33,9 +41,11 @@ If you want to add something from yourself read [contribution](sites/contribute.
 - [Miscellaneous](#miscellaneous)
 
 
-## Messengers
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Messengers
+
+## Use <img width="16" src="media/yes.png">
 
 * [XMPP+OTR](https://otr.im/clients.html)
 * [SimpleX Chat](https://simplex.chat/)
@@ -46,7 +56,7 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [Briar](https://briarproject.org/)
 * [cwtch](https://cwtch.im/)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Matrix Clients](https://matrix.org/ecosystem/clients/)
 * [Meshtastic](https://meshtastic.org/)
@@ -56,7 +66,7 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [Session](https://getsession.org/)
 * [cyph](https://www.cyph.com/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * [Telegram](https://telegram.org/)
 * Messenger
@@ -70,21 +80,24 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * Discord
 * Keybase
 
-## Search engines
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Search engines
+
+## Use <img width="16" src="media/yes.png">
 
 * [SearX](https://searx.space/)
 * [Whoogle](https://github.com/benbusby/whoogle-search)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
+
 * [SwissCows](https://www.swisscows.com/)
 * [Qwant](https://www.qwant.com/)
 * [Metager](https://metager.org/about)
 * [Brave Search](https://search.brave.com/)
 * [Kagi](https://kagi.com/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * Google
 * Bing
@@ -92,69 +105,75 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * Yandex
 * Ecosia
 
-## Browsers
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Browsers
+
+## Use <img width="16" src="media/yes.png">
 
 * [Tor Browser](https://www.torproject.org/)
 * [Firefox](https://www.mozilla.org/firefox/new/)
   * [Librewolf](https://librewolf.net/)
 * [Cromite](https://github.com/uazo/cromite)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Brave](https://brave.com/)
 * [ungoogled chromium](https://github.com/Eloston/ungoogled-chromium)
 * [Mullvad Browser](https://mullvad.net/download/browser/windows)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * Chrome
 * Edge
 * Opera/Opera GX
 * Iridium Browser
 
-## Browser extensions
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Browser extensions
+
+## Use <img width="16" src="media/yes.png">
 
 * [uBlock Origin](https://github.com/gorhill/uBlock)
 * [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 * [Privacy Badger](https://www.eff.org/privacybadger)
 * [ClearUrls](https://gitlab.com/KevinRoebert/ClearUrls)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [NoScript](https://noscript.net/getit)
 * [Violentmonkey](https://violentmonkey.github.io/)
 * [Decentraleyes](https://decentraleyes.org/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * Ghostery
 * AdblockPlus
 * LetyShops
 * Grammarly
 
-## Password managers
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Password managers
+
+## Use <img width="16" src="media/yes.png">
 
 * [Bitwarden](https://bitwarden.com/)
 * [KeePassXC](https://keepassxc.org/)
 * [AuthPass](https://authpass.app/)
 * [Mooltipass](https://www.themooltipass.com/)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Passbolt](https://www.passbolt.com/)
 * [LessPass](https://lesspass.com/)
 * [pass](https://www.passwordstore.org/)
 * [Zamek](https://hackaday.io/project/3555-zamek-the-offline-pocket-password-manager)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
-* Password manager built into browser <img width="16" src="media/warn.png"></img>
+* Password manager built into browser <img width="16" src="media/warn.png">
 * Lastpass
 * Dashlane
 * 1Password
@@ -162,9 +181,11 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * Keeper
 * NordPass
 
-## 2FA
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# 2FA
+
+## Use <img width="16" src="media/yes.png">
 
 * [Ente Auth](https://ente.io/blog/auth/)
 * [Aegis](https://github.com/beemdevelopment/Aegis)
@@ -173,27 +194,29 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [U2F-Zero](https://github.com/conorpp/u2f-zero)
 * [SoloKey](https://github.com/solokeys/solo)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [andOTP](https://github.com/andOTP/andOTP)
 * [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
 * [Yubikey](https://www.yubico.com/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
-* One Time Password/Time-based one-time password (OTP/TOTP) built into password manager <img width="16" src="media/warn.png"></img>
+* One Time Password/Time-based one-time password (OTP/TOTP) built into password manager <img width="16" src="media/warn.png">
 * Google Authenticator
 * LastPass Authenticator
 * Yandex.Key
 
-## Clouds
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Clouds
+
+## Use <img width="16" src="media/yes.png">
 
 * [Nextcloud](https://nextcloud.com/)
 * [Seafile](https://www.seafile.com/en/home/)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Sync](https://www.sync.com/)
 * [Hetzner](https://www.hetzner.com/storage/storage-share)
@@ -201,15 +224,17 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [Tresorit](https://tresorit.com/)
 * [MEGA](https://mega.nz/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * Google Drive
 * OneDrive
 * Dropbox
 
-## File sharing
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# File sharing
+
+## Use <img width="16" src="media/yes.png">
 
 * [GoFile](https://gofile.io/welcome)
 * [croc](https://github.com/schollz/croc)
@@ -217,41 +242,45 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [OnionShare](https://onionshare.org/)
 * [ffsend](https://gitlab.com/timvisee/ffsend)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Tresorit Send](https://send.tresorit.com/)
 * [Oshi](https://oshi.at/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * File transfer via unencrypted messenger (Telegram, Messenger, email)
 * WeTransfer
 
-## File encryption
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# File encryption
+
+## Use <img width="16" src="media/yes.png">
 
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html)
 * [Cryptomator](https://cryptomator.org/)
 * [LUKS](https://gitlab.com/cryptsetup/cryptsetup/)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Kryptor](https://kryptor.co.uk/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * NordLocker
 * Bitlocker
 
-## Email
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Email
+
+## Use <img width="16" src="media/yes.png">
 
 * [Tutanota](https://tutanota.com/)
 * [Posteo](https://posteo.de/en)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Cyberfear](https://cyberfear.com/)
 * [Mailfence](https://mailfence.com/)
@@ -259,7 +288,7 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [GMail*](https://mail.google.com/)
   * Use **tylko** z dodatkami opisanymi [tutaj](#dodatki-email)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * [Protonmail](https://threadreaderapp.com/thread/1434595251243692037.html)
 * wp.pl
@@ -268,15 +297,19 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * Yandex.Mail
 * Outlook
 
-## Email addons
+----
+
+# Email addons
 
 * [Addy.io](https://addy.io/)
 * [Simplelogin](https://simplelogin.io/)
 * [GnuPG](https://gnupg.org/)
 
-## Socials
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Socials
+
+## Use <img width="16" src="media/yes.png">
 
 * [Mastodon](https://joinmastodon.org/)
 * [Aether](https://getaether.net/)
@@ -284,46 +317,50 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [Nitter for Twitter](https://github.com/zedeus/nitter/wiki/Instances)
 * [Yotter](https://github.com/ytorg/yotter)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Invidious](https://invidio.us/)
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [Peertube](https://joinpeertube.org/en/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * Facebook
 * Twitter
 * VKontakte
 * Youtube
 
-## Navigation and maps
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Navigation and maps
+
+## Use <img width="16" src="media/yes.png">
 
 * [OpenStreetMap](https://www.openstreetmap.org/)
 * [Transportr](https://transportr.app/)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [Apple Maps on DDG](https://duckduckgo.com/?q=maps&ia=maps&iaxm=maps)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * Google Maps
 * HERE
 * Bing
 
-## Operating systems
+----
 
-<img width="16" src="media/yes.png"></img> **Use** <img width="16" src="media/yes.png"></img> 
+# Operating systems
+
+## Use <img width="16" src="media/yes.png">
 
 * [Linux](https://distrochooser.de/en/)
   * [Tails](https://tails.boum.org/)
 * [LineageOS](https://lineageos.org/)
 * [Whonix](https://www.whonix.org/)
 
-<img width="16" src="media/maybe.png"></img> **Worth a shot** <img width="16" src="media/maybe.png"></img> 
+## Worth a shot <img width="16" src="media/maybe.png"> 
 
 * [QubesOS](https://www.qubes-os.org/)
 * [GrapheneOS](https://grapheneos.org/)
@@ -331,18 +368,22 @@ If you want to add something from yourself read [contribution](sites/contribute.
   * [RevisionOS](https://revi.cc/)
   * [AtlasOS](https://atlasos.net/)
 
-<img width="16" src="media/no.png"></img> **Avoid** <img width="16" src="media/no.png"></img> 
+## Avoid <img width="16" src="media/no.png">
 
 * Windows 10/11
 * Android with manufacturers UIs (Huawei, Xiaomi, Samsung, ZTE...)
 
-## Windows tools
+----
+
+# Windows tools
 
 * [Shutup10](https://www.oo-software.com/en/shutup10)
 * [Destroy Windows Spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html)
 * [WPD](https://wpd.app/)
 
-## Android tools
+----
+
+# Android tools
 
 * [AuroraStore](https://auroraoss.com/app_info.php?app_id=1)
 * [AuroraDroid](https://auroraoss.com/app_info.php?app_id=2)
@@ -353,7 +394,9 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [Youtube Vanced](https://vancedapp.com/)
 * [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/)
 
-## Inne
+----
+
+# Inne
 
 * [Blokada iOS](https://blokada.org/)
 * [PiHole](https://pi-hole.net/)

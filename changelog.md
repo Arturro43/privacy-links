@@ -233,3 +233,10 @@
 * Zmiana w sekcji Dodatki email - Addy.io to teraz "Addy.io" a nie "Anonaddy - teraz Addy.io"
 * Zmiana w sekcji Systemy operacyjne - usunięto CalyxOS za działanie na szkodę twórcy GrapheneOS.
 * Zmiana w sekcji Systemy operacyjne - do kategorii unikaj dodano również Windows 11
+
+## release 3.0 26.04.2024
+
+* Publikacja wersji 2.3 z małymi poprawkami.
+* Główną bazą linków jest teraz readme.
+* Małe poprawki wizualne.
+* Dodano translation guide.
