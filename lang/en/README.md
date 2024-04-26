@@ -428,3 +428,17 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * [OTS](https://ots.fyi/)
 * [Libsodium](https://doc.libsodium.org)
 * [LanguageTool](https://github.com/languagetool-org/languagetool)
+
+----
+
+# License
+
+This project uses jekyll-theme-console created by b2a3e8 as website "backend" which is licensed under [MIT license](../../jekyll-theme-console-license.md)
+
+Contents (the Privacy Links list itself and other contents (templates, guides etc.) excluding emojis) are licensed under CC BY-NC-SA 4.0 license. This means you can do anything with my work (remix, adapt, build upon it), as long as you protect it from commercialization (the best way is to share it on the same license) and give me credit for my hard work :)
+
+This project is here not to make money. It's for a greater cause. It is here to bring privacy for masses. Please respect my mission.
+
+If you want to use my work to earn money from ads, partnerships etc. please contact me. If you are able to do this, I'm pretty sure you can do one more thing, which is going to be for a greater cause. In other words - let's build something together :)
+
+Contributions are protected by [Contribution License Agreement](./CLA.md)

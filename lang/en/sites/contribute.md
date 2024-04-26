@@ -22,6 +22,7 @@ Thank you for your interest in contributing to the list! I appreciate it very mu
 
 * Credits:
     * When creating an issue, write the nickname with which you want to identify yourself, and you will be added to the list of contributors.
+    * Your submisions are licensed to me (and no one else) under [Contribution License Agreement](../../CLA.md)
 
 ## Thank you.
 

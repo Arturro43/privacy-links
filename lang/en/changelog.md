@@ -249,3 +249,7 @@
 * Visual improvements.
 * Added translation guide.
 * Added Notes category
+
+## release 3.1 26.04.2024
+
+* Added license, missing license and Contribuior License Agreement

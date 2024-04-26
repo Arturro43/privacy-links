@@ -241,3 +241,7 @@
 * Małe poprawki wizualne.
 * Dodano translation guide.
 * Dodano kategorię Notatki
+
+## release 3.1 26.04.2024
+
+* Dodano licencję, brakującą licencję oraz Contributor License Agreement

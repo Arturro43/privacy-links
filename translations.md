@@ -20,3 +20,7 @@ Privacy Links is for masses. Privacy should be accessible to anyone. Your transl
 ## I need more help with translation!
 
 Please, create Issue regarding your problem. Use "[Translation] Need help with <language> translation" as topic for the issue. I'll try to explain everything. If it's a problem which I can't solve (eg. you need help from other people using your language to make translation better) use "[Translation] Need community help with <language> translation. Input needed" as topic for the issue.
+
+## License
+
+Your submisions are licensed to me (Artur Mickiewicz, 0xA43 and noone else) under [Contribution License Agreement](./CLA.md)
