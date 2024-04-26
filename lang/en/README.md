@@ -4,11 +4,11 @@ layout: page
 permalink: /links/en
 ---
 
-<p align="center"><img width="500" src="media/privacylinks.png"></p> 
+<p align="center"><img width="500" src="../../media/privacylinks.png"></p> 
 
 # Privacy Links
 
-**Privacy Links is also available in: EN | [PL](../../README.md)**
+Privacy Links is also available in: EN and [PL](../../README.md)
 
 Privacy Links is an independent list of open-source both simple and advanced tools to help you maintain your online privacy.
 
