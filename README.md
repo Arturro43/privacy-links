@@ -16,7 +16,7 @@ Aby dowiedzieć się więcej na temat tej listy, m.in. kryteriów stojących za 
 
 Aktualna wersja:
 
-*v3.0_23042024*
+*v3.1_23042024*
 
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
 

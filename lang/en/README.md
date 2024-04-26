@@ -4,7 +4,7 @@ layout: page
 permalink: /links/en
 ---
 
-<p align="center"><img width="500" src="../media/privacylinks.png"></p> 
+<p align="center"><img width="50%" src="../media/privacylinks.png"></p> 
 
 # Privacy Links
 
@@ -16,7 +16,7 @@ To learn more about this list, including the criteria behind the recommendations
 
 Current version:
 
-*v3.0_26042024*
+*v3.1_26042024*
 
 Want to see what's changed since your last visit? Read [changelog](https://github.com/Arturro43/privacy-links/blob/main/en/changelog.md).
 
