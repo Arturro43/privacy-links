@@ -4,7 +4,7 @@ layout: page
 permalink: /links
 ---
 
-<p align="center"><img width="500" src="media/privacylinks.png"></p> 
+<p align="center"><img width="50%" src="media/privacylinks.png"></p> 
 
 # Privacy Links
 
@@ -16,11 +16,12 @@ Aby dowiedzieć się więcej na temat tej listy, m.in. kryteriów stojących za 
 
 Aktualna wersja:
 
-*v3.1_23042024*
+*v3.1.1_26042024*
 
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
 
 Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.md).
+
 ----
 
 - [Komunikatory](#komunikatory)

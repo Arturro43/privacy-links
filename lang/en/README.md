@@ -16,11 +16,11 @@ To learn more about this list, including the criteria behind the recommendations
 
 Current version:
 
-*v3.1_26042024*
+*v3.1.1_26042024*
 
-Want to see what's changed since your last visit? Read [changelog](https://github.com/Arturro43/privacy-links/blob/main/en/changelog.md).
+Want to see what's changed since your last visit? Read [changelog](https://github.com/Arturro43/privacy-links/blob/main/lang/en/changelog.md).
 
-If you want to add something from yourself read [contribution](sites/contribute.md).
+If you want to add something from yourself read [contributions](sites/contribute.md).
 
 - [Instant messaging](#messengers)
 - [Search engines](#search-engines)
@@ -132,7 +132,7 @@ If you want to add something from yourself read [contribution](sites/contribute.
 
 ----
 
-# Browser extensions
+# Extensions
 
 ## Use <img width="16" src="../media/yes.png">
 

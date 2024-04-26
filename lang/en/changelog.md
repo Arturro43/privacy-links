@@ -253,3 +253,7 @@
 ## release 3.1 26.04.2024
 
 * Added license, missing license and Contribuior License Agreement
+
+## release 3.1.1 26.04.2024
+
+* Bugfixes
