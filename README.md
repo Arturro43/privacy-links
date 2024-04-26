@@ -2,13 +2,13 @@
 
 # Privacy Links
 
-Privacy Links to niezależna lista otwartoźródłowych zarówno prostych i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.
+Privacy Links to niezależna lista otwartoźródłowych zarówno prostych jak i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.
 
 Aby dowiedzieć się więcej na temat tej listy, m.in. kryteriów stojących za rekomendacjami koniecznie sprawdź [about](sites/about.md)!
 
 Aktualna wersja:
 
-*v2.2_23042024*
+*v3.0_23042024*
 
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
 
@@ -224,7 +224,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Wysyłanie plików na Messengerze
+* Wysyłanie plików za pośrednictwem nieszyfrowanego komunikatora (Telegram, Messenger, email)
 * WeTransfer
 
 ## Szyfrowanie plików
@@ -233,10 +233,10 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html)
 * [Cryptomator](https://cryptomator.org/)
+* [LUKS](https://gitlab.com/cryptsetup/cryptsetup/)
 
 <img width="16" src="media/maybe.png"></img> **Warte zainteresowania** <img width="16" src="media/maybe.png"></img> 
 
-* [LUKS](https://gitlab.com/cryptsetup/cryptsetup/)
 * [Kryptor](https://kryptor.co.uk/)
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
@@ -269,7 +269,8 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * Outlook
 
 ## Dodatki email
-* [AnonAddy - teraz Addy.io](https://addy.io/)
+
+* [Addy.io](https://addy.io/)
 * [Simplelogin](https://simplelogin.io/)
 * [GnuPG](https://gnupg.org/)
 
@@ -319,7 +320,6 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 
 * [Linux](https://distrochooser.de/en/)
   * [Tails](https://tails.boum.org/)
-* [CalyxOS](https://calyxos.org/)
 * [LineageOS](https://lineageos.org/)
 * [Whonix](https://www.whonix.org/)
 
@@ -333,7 +333,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 
 <img width="16" src="media/no.png"></img> **Unikaj** <img width="16" src="media/no.png"></img> 
 
-* Windows 10
+* Windows 10/11
 * Android z nakładkami producentów (Huawei, Xiaomi, Samsung, ZTE...)
 
 ## Narzędzia na Windowsa

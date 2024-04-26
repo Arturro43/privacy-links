@@ -4,13 +4,11 @@ layout: page
 permalink: /links
 ---
 
-Privacy Links to niezależna lista otwartoźródłowych zarówno prostych jak i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.  
-
-Aby dowiedzieć się więcej na temat tej listy, m.in. kryteriów stojących za rekomendacjami koniecznie sprawdź [about](sites/about.md)!
+Privacy Links to niezależna lista otwartoźródłowych zarówno prostych jak i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.\
 
 Aktualna wersja:
 
-*v3.0_23042024*
+*v2.2_23042024*
 
 Chcesz zobaczyć co się zmieniło od Twojej ostatniej wizyty? Przeczytaj [changelog](https://github.com/Arturro43/privacy-links/blob/main/changelog.md).
 
@@ -41,7 +39,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
 
 # Komunikatory
 
-## Używaj <img width="16" src="media/yes.png"></img>
+## Używaj <img width="16" src="media/yes.png">
 
 * [XMPP+OTR](https://otr.im/clients.html)
 * [SimpleX Chat](https://simplex.chat/)
@@ -86,7 +84,6 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
 * [Whoogle](https://github.com/benbusby/whoogle-search)
 
 ## Warte zainteresowania <img width="16" src="media/maybe.png">
-
 * [SwissCows](https://www.swisscows.com/)
 * [Qwant](https://www.qwant.com/)
 * [Metager](https://metager.org/about)
@@ -349,6 +346,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](./contribute).
 
 * [Linux](https://distrochooser.de/en/)
 * [Tails](https://tails.boum.org/)
+* [CalyxOS](https://calyxos.org/)
 * [LineageOS](https://lineageos.org/)
 * [Whonix](https://www.whonix.org/)
   

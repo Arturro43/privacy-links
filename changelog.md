@@ -187,7 +187,7 @@
 
   **4.1 Komunikatory:**  
 
-    4.1.1 Telegram z Warte zainteresowania do Unikaj. Telegram obecnie (marzec 2024) jest jednym z nielicznych mainstreamowych komunikatorów, które wciąż nie obsługują szyfrowania end to end domyślnie. Dodatkowo brakuje transparentności. Znane są przypadki, gdy Telegram został poproszony o dane dotyczące jakichś użytkowników, przekazał je, lecz fakt otrzymania nakazu nie został odnotowany w żadnym publicznie dostępnym raporcie. Ponadto raporty wcześniej były "dostępne" dla każdego jako kanał na Telegramie, obecnie są one przedstawiane jedynie użytkownikom z danego kraju - będąc z Polski nie zobaczysz co stało się w innym państwie.  
+    4.1.1 Telegram z Warte zainteresowania do Unikaj. Telegram obecnie (marzec 2024) jest jednym z nielicznych mainstreamowych komunikatorów, które wciąż nie obsługują szyfrowania end to end domyślnie. Dodatkowo brakuje transparentności. Znane są przypadki, gdy Telegram został poproszony o dane dotyczące jakichś użytkowników, przekazał je, lecz fakt otrzymania nakazu nie został odnotowany w żadnym publicznie dostępnym raporcie. Ponadto raporty wcześniej były "dostępne" dla każdego jako kanał na Telegramie, obecnie są one przedstawiane jedynie użytkownikom z danego kraju - będąc z Polski nie zobaczysz co stało się w innym państwie. To nie jest transparentność.  
 
     4.1.2 Klienty Matrixa (zamiast linkowania trzech popularnych wskazano odnośnik do listy klientów tworzonej przez Matrixa) z kategorii Używaj na Warte zainteresowania, ze względu na to, że Matrix boryka się z wieloma problemami takimi jak np. metadane. Problemy te nie zostały rozwiązane od lat, dlatego nie uważam za rozsądne polecania Matrixa w kategorii Używaj.  
 
@@ -196,25 +196,40 @@
     4.1.4 tinfoilchat (tfc) z kategorii Warte zainteresowania do Używaj. TFC jest niesamowicie ciekawym projektem.  
 
 ## release candidate 1.9.1-1.9.9 26.03.2024-30.03.2024
-  Poprawki w podstronach changelog, twój wkład, roadmap.
-  Przygotowania do release  
+
+* Poprawki w podstronach changelog, twój wkład, roadmap.
+* Przygotowania do release  
 
 ## release 2.0 30.03.2024
-  Finalny release wersji 2.0!  
+
+* Finalny release wersji 2.0!  
 
 ## release 2.1 30.03.2024
-  Dodano Mullvad Browser do Warte zainteresowania (dziękuję milosz0542!)
-  Dodano LanguageTool (dziękuję hexandcube!)
-  Drobne poprawki stron  
+
+* Dodano Mullvad Browser do Warte zainteresowania (dziękuję milosz0542!)
+* Dodano LanguageTool (dziękuję hexandcube!)
+* Drobne poprawki stron  
 
 ## release 2.1.1 23.04.2024
-  Zunifikowanie changeloga do jednej strony.
-  Poprawki odnośników do podstron.
+
+* Zunifikowanie changeloga do jednej strony.
+* Poprawki odnośników do podstron.
 
 ## release 2.1.2 23.04.2024
-  Odlinkowanie changeloga, który był duplikatem. Obecnie changelog może być oglądany jednie na GitHubie.
+
+* Odlinkowanie changeloga, który był duplikatem. Obecnie changelog może być oglądany jednie na GitHubie.
 
 ## release 2.2 23.04.2024
-  Poprawienie odnośników do changeloga.
-  Usunięcie changeloga z /sites/
-  Utworzenie Handbooka, czyli podręcznika pozwalającego na zrozumienie logiki stojącej za Privacy-Links [beta]
+
+* Poprawienie odnośników do changeloga.
+* Usunięcie changeloga z /sites/.
+* Utworzenie Handbooka, czyli podręcznika pozwalającego na zrozumienie logiki stojącej za Privacy-Links [beta]
+
+## release candidate 2.3 26.04.2024
+
+* Dodanie anglojęzycznej wersji listy.
+* Zmiana w sekcji Udostępnianie plików/unikaj z "Wysyłanie plików na Messengerze" na "Wysyłanie plików za pośrednictwem nieszyfrowanego komunikatora (Telegram, Messenger, email)".
+* Zmiana w sekcji Szyfrowanie plików - LUKS trafia do kategorii "Używaj".
+* Zmiana w sekcji Dodatki email - Addy.io to teraz "Addy.io" a nie "Anonaddy - teraz Addy.io"
+* Zmiana w sekcji Systemy operacyjne - usunięto CalyxOS za działanie na szkodę twórcy GrapheneOS.
+* Zmiana w sekcji Systemy operacyjne - do kategorii unikaj dodano również Windows 11
