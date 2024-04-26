@@ -8,7 +8,7 @@ permalink: /links
 
 # Privacy Links
 
-**Privacy Links is also available in: PL | [EN](./lang/en/README.md)**
+Privacy Links is also available in: PL and [EN](./lang/en/README.md)
 
 Privacy Links to niezależna lista otwartoźródłowych zarówno prostych jak i zaawansowanych narzędzi pomagających zachować prywatność w Internecie.
 
