@@ -35,7 +35,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 
 ## Komunikatory
 
-<img width="16" src="media/yes.png"></img> **Używaj** <img width="16" src="media/yes.png"></img> 
+**Używaj** <img width="16" src="media/yes.png">
 
 * [XMPP+OTR](https://otr.im/clients.html)
 * [SimpleX Chat](https://simplex.chat/)
