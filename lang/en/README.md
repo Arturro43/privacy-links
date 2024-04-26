@@ -28,7 +28,8 @@ If you want to add something from yourself read [contribution](sites/contribute.
 - [Browser extensions](#extensions)
 - [Password managers](#password-managers)
 - [2FA](#2fa)
-- [Cloud storage](#cloud)
+- [Cloud storage](#clouds)
+- [Notes](#notes)
 - [File sharing](#file-sharing)
 - [File encryption](#file-encryption)
 - [Email](#email)
@@ -229,6 +230,29 @@ If you want to add something from yourself read [contribution](sites/contribute.
 * Google Drive
 * OneDrive
 * Dropbox
+
+----
+
+# Notes
+
+## Use <img width="16" src="../media/yes.png">
+
+* [Notesnook](https://notesnook.com/)
+* [Standard Notes](https://standardnotes.com/)
+* [Joplin](https://joplinapp.org/)
+* [Logseq](https://logseq.com/)
+* [Memos](https://www.usememos.com/)
+
+## Worth a shot <img width="16" src="../media/maybe.png"> 
+
+* [Obsidian](https://obsidian.md/)
+
+## Avoid <img width="16" src="../media/no.png">
+
+* Apple Notes
+* Google Keep
+* Evernote
+* Notion
 
 ----
 

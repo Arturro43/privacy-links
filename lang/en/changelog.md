@@ -248,3 +248,4 @@
 * Main directory for links is now readme.
 * Visual improvements.
 * Added translation guide.
+* Added Notes category

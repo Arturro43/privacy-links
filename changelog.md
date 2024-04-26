@@ -240,3 +240,4 @@
 * Główną bazą linków jest teraz readme.
 * Małe poprawki wizualne.
 * Dodano translation guide.
+* Dodano kategorię Notatki

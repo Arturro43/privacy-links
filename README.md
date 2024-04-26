@@ -30,6 +30,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 - [Menedżery haseł](#menedżery-haseł)
 - [2FA](#2fa)
 - [Chmury](#chmury)
+- [Notatniki](#notatki)
 - [Udostępnianie plików](#udostępnianie-plików)
 - [Szyfrowanie plików](#szyfrowanie-plików)
 - [Email](#email)
@@ -230,6 +231,29 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * Google Drive
 * OneDrive
 * Dropbox
+
+----
+
+# Notatki
+
+## Używaj <img width="16" src="media/yes.png">
+
+* [Notesnook](https://notesnook.com/)
+* [Standard Notes](https://standardnotes.com/)
+* [Joplin](https://joplinapp.org/)
+* [Logseq](https://logseq.com/)
+* [Memos](https://www.usememos.com/)
+
+## Warte zainteresowania <img width="16" src="media/maybe.png">
+
+* [Obsidian](https://obsidian.md/)
+
+## Unikaj <img width="16" src="media/no.png">
+
+* Apple Notes
+* Google Keep
+* Evernote
+* Notion
 
 ----
 
